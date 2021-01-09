@@ -1,6 +1,6 @@
 {
-  "name": "nextjs-progressbar",
-  "version": "0.0.7",
+  "name": "@taishikato/nextjs-progressbar",
+  "version": "1.0.0",
   "description": "Nprogress component for Next.js app.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apal21/nextjs-progressbar.git"
+    "url": "git+https://github.com/taishikato/nextjs-progressbar-without-spinner.git"
   },
   "keywords": [
     "Nprogress",
@@ -18,7 +18,7 @@
     "Next.js",
     "Progressbar"
   ],
-  "author": "Apal Shah",
+  "author": "Taishi Kato",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/apal21/nextjs-progressbar/issues"
