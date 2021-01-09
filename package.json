@@ -1,6 +1,6 @@
 {
   "name": "@taishikato/nextjs-progressbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nprogress component for Next.js app.",
   "main": "index.js",
   "types": "index.d.ts",
