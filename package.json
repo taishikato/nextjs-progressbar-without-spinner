@@ -21,9 +21,9 @@
   "author": "Taishi Kato",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apal21/nextjs-progressbar/issues"
+    "url": "https://github.com/taishikato/nextjs-progressbar-without-spinner/issues"
   },
-  "homepage": "https://github.com/apal21/nextjs-progressbar#readme",
+  "homepage": "https://github.com/taishikato/nextjs-progressbar-without-spinner#readme",
   "dependencies": {
     "nprogress": "^0.2.0"
   },
